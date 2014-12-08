@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 _site
 .sass-cache
+=======
+_site/
+.sass-cache/
+>>>>>>> 756c666a792fe119e8fd688d56f75170b642517c
