@@ -12,3 +12,5 @@ github_username:  funkyproject
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-sitemap
